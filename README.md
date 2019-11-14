@@ -1,4 +1,4 @@
-# H3X
+# H3Xes
 Program napisany w Javie w środowisku graficznym Processing.  
 Aby go skompilować wymagane jest środowisko.  
   
@@ -8,11 +8,12 @@ kolorowych sześciokątów.
 Program inspirowany jest okładką płyty 'Polaris' zespołu Tesseract.  
   
 Z poziomu kodu możliwa jest modyfikacja bardzo wielu parametrów,  
-od których zależy wynik.  
+od których zależy wynik. Ich wartości nie są alej idealne, można by  
+je nieco opracować.  
 Podczas dzialania programu za pomocą SPACJI można wygenerować  
 nową grafikę. Klawisz ENTER zapisuje ekran w formacie TIF.  
   
 Przykłady:
-![](01.tif)
-![](02.tif)
-![](03.tif)
+![](01.png)
+![](02.png)
+![](03.png)
