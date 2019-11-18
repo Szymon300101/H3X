@@ -1,6 +1,12 @@
 # H3Xes
-Program napisany w Javie w środowisku graficznym Processing.  
-Aby go skompilować wymagane jest środowisko.  
+Program występuje w dwóch wesjach.  
+  
+Pierwsza napisana jest w Javie w środowisku graficznym Processing.  
+Aby ją skompilować wymagane jest środowisko.  
+Jest to plik "P_32_Perlin_hex.pde".  
+Druga wersja jest napisana w JavaScripcie używając biblioteki  
+P5.js i może zostać uruchomiona w przeglądarce pod tym linkiem:  
+https://szymon300101.github.io/H3Xes/  
   
 Program wykorzystuje szum Prelina i funkcję random()  
 do genereowania losowych grafik złożonych z półprzeźroczystych  
