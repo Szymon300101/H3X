@@ -60,4 +60,5 @@ function keyPressed()
 {
   //println(keyCode);
   if(keyCode==32) {generate();}
+  if(keyCode==10) {save();}
 }
